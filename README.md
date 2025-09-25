@@ -1,44 +1,59 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnd2ZzY5ZG9uajV5aHk0d2R2dWUyOWgyN3I5czJqMG85Yzl6b3EydyZlcD12MV9pbnRlcm5hbF9naWYmY3Q9cw/qgQPpQ72rF131c9g2o/giphy.gif" width="300" />
-  <h1>👋 Olá! Eu sou o Kauê!</h1>
-  <p>Estudante de Desenvolvimento de Sistemas em busca de desafios e aprendizado contínuo.</p>
+  <img src="https://media.giphy.com/media/qgQPpQ72rF131c9g2o/giphy.gif" alt="Coding GIF" width="300" />
+  
+  # ✨ Kauê, 17 | Estudante de Desenvolvimento de Sistemas
+  <p>Construindo o futuro, uma linha de código por vez.</p>
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 Minha Jornada
 
-* 🧑‍💻 **Nome:** Kauê
-* 🎂 **Idade:** 17 anos
-* 📚 **Estudante:** Atualmente imerso no curso técnico de **Desenvolvimento de Sistemas** na **ETEC**.
-* 💡 **Foco:** Apaixonado por transformar ideias em código e sempre pronto para aprender novas tecnologias. Minha jornada na programação está apenas começando!
+Olá! Meu nome é **Kauê** e, aos 17 anos, estou no início de uma aventura incrível no mundo da tecnologia.
 
-## 🛠️ O que estou aprendendo/usando
+Sou aluno do curso técnico de **Desenvolvimento de Sistemas** na **ETEC**, onde estou transformando curiosidade em código. Meu foco agora é absorver o máximo de conhecimento e aplicar teoria em projetos práticos e impactantes.
 
-_(Você pode adicionar os ícones ou nomes das linguagens/tecnologias que está aprendendo ou que mais usa, por exemplo:)_
+> **Status:** `Aprendiz em Full-Stack - Buscando o próximo desafio!`
 
-* **Linguagens:** HTML, CSS, JavaScript (e/ou as linguagens que a ETEC foca, como Python, C#, Java, etc.)
-* **Ferramentas:** Git, VS Code, MySQL (ou outro banco de dados)
+## 🛠️ Stack Principal (O que estou aprendendo)
+
+_(Aqui você pode adicionar ícones das tecnologias que a ETEC foca, ou que você está aprendendo por conta própria. Isso deixa o perfil muito mais profissional.)_
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| **Back-end** | _(Ex: Python, C# ou Java)_ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> |
+| **Banco de Dados** | <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> |
+| **Controle de Versão** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> |
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📈 Meu Desempenho no GitHub
 
-_(Aqui você pode adicionar os famosos "badges" (selos/crachás) do GitHub que mostram suas estatísticas. Você precisará de sites como o [GitHub Stats](https://github.com/anuraghazra/github-readme-stats) ou [Shields.io](https://shields.io/) para gerar os links. **Substitua `SEU_USERNAME` pelo seu nome de usuário do GitHub.**)_
+_(Esta seção é altamente chamativa! Lembre-se de substituir `SEU_USERNAME` pelo seu nome de usuário. Os links abaixo usam o tema 'dark' para um visual mais moderno.)_
 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25" alt="Estatísticas do GitHub" />
+    </a>
+    <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=dark&hide_title=true" alt="Linguagens Mais Usadas" />
+    </a>
 </div>
 
 ---
 
-## 📧 Conecte-se Comigo
+## 💌 Conecte-se
 
-* **LinkedIn:** \[Link para o seu LinkedIn] _(Recomendado para networking!)_
-* **Email:** \[Seu e-mail profissional]
+Estou sempre aberto a novas conexões e oportunidades de aprendizado! Sinta-se à vontade para me contatar.
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [Meu Perfil Profissional](LINK_DO_SEU_LINKEDIN) |
+| **E-mail** | [kaue.seuemail@email.com](mailto:SEU_EMAIL_AQUI) |
 
 <div align="center">
-  <h3>Vamos Codar! 🚀</h3>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue" alt="Contador de visualizações do perfil" /> 
 </div>
