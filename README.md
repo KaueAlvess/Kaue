@@ -22,16 +22,3 @@ _(Liste as linguagens e ferramentas principais que você usa ou estuda na ETEC)_
 * **Controle de Versão:** Git e GitHub
 
 ---
-
-## 🔗 Conecte-se
-
-Ficarei feliz em fazer contato!
-
-* **LinkedIn:** [Link para o seu LinkedIn]
-* **Email:** [Seu e-mail]
-
----
-
-<div align="center">
-  <p>Vamos codar juntos! 🚀</p>
-</div>
